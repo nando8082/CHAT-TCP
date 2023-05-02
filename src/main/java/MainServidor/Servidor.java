@@ -47,7 +47,7 @@ public class Servidor {
             JOptionPane.showMessageDialog(null, "Contraseña incorrecta. El servidor no se iniciará.");
             return;
         }
-
+ 
         //construimos el jOptionPane
         JFrame frame = new JFrame("Servidor");
         frame.setLocationRelativeTo(null);
