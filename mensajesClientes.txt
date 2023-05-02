@@ -1,0 +1,14 @@
+30/04/2023 15:16:20 => Elvis: Hola  a todos
+30/04/2023 15:16:41 => Corrupto: que hubo
+30/04/2023 15:18:31 => Corrupto se ha desconectado
+30/04/2023 15:18:52 => Corrupto: hola de nuevo
+30/04/2023 15:20:34 => Corrupto se ha desconectado
+30/04/2023 15:20:36 => Elvis se ha desconectado
+30/04/2023 15:34:15 => Jose se ha desconectado
+30/04/2023 15:34:47 => Jose se ha desconectado
+01/05/2023 13:56:41 => Daniel se ha desconectado
+01/05/2023 13:58:05 => Daniel: Hola
+01/05/2023 13:58:11 => Daniel se ha desconectado
+01/05/2023 14:34:56 => Daniel se ha desconectado
+01/05/2023 14:39:21 => Daniel se ha desconectado
+01/05/2023 14:45:23 => Daniel se ha desconectado

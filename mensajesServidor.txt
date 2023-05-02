@@ -1,0 +1,51 @@
+30/04/2023 15:15:42 => Servidor iniciado en el puerto: 6500
+30/04/2023 15:16:04 => Se ha aceptado la conexion 
+
+30/04/2023 15:16:04 => Cliente Elvis se ha conectado con la IP 127.0.0.1
+30/04/2023 15:16:37 => Se ha aceptado la conexion 
+
+30/04/2023 15:16:37 => Cliente Corrupto se ha conectado con la IP 127.0.0.1
+30/04/2023 15:18:31 => Corrupto se ha desconectado
+30/04/2023 15:18:43 => Se ha aceptado la conexion 
+
+30/04/2023 15:18:43 => Cliente Corrupto se ha conectado con la IP 127.0.0.1
+30/04/2023 15:20:34 => Corrupto se ha desconectado
+30/04/2023 15:20:36 => Elvis se ha desconectado
+30/04/2023 15:33:55 => Servidor iniciado en el puerto: 6500
+30/04/2023 15:34:05 => Se ha aceptado la conexion 
+
+30/04/2023 15:34:05 => Cliente Jose se ha conectado con la IP 127.0.0.1
+30/04/2023 15:34:15 => Jose se ha desconectado
+30/04/2023 15:34:30 => Servidor iniciado en el puerto: 6500
+30/04/2023 15:34:39 => Se ha aceptado la conexion 
+
+30/04/2023 15:34:39 => Cliente Jose se ha conectado con la IP 127.0.0.1
+30/04/2023 15:34:47 => Jose se ha desconectado
+01/05/2023 13:56:24 => Servidor iniciado en el puerto: 6500
+01/05/2023 13:56:34 => Se ha aceptado la conexion 
+
+01/05/2023 13:56:34 => Cliente Daniel se ha conectado con la IP 127.0.0.1
+01/05/2023 13:56:41 => Daniel se ha desconectado
+01/05/2023 13:57:55 => Se ha aceptado la conexion 
+
+01/05/2023 13:57:55 => Cliente Daniel se ha conectado con la IP 127.0.0.1
+01/05/2023 13:58:11 => Daniel se ha desconectado
+01/05/2023 14:32:18 => Servidor iniciado en el puerto: 6500
+01/05/2023 14:32:54 => Servidor iniciado en el puerto: 6500
+01/05/2023 14:34:39 => Servidor iniciado en el puerto: 6500
+01/05/2023 14:34:53 => Se ha aceptado la conexion 
+
+01/05/2023 14:34:53 => Cliente Daniel se ha conectado con la IP 127.0.0.1
+01/05/2023 14:34:56 => Daniel se ha desconectado
+01/05/2023 14:38:01 => Servidor iniciado en el puerto: 6500
+01/05/2023 14:38:58 => Servidor iniciado en el puerto: 6500
+01/05/2023 14:39:10 => Se ha aceptado la conexion 
+
+01/05/2023 14:39:10 => Cliente Daniel se ha conectado con la IP 127.0.0.1
+01/05/2023 14:39:21 => Daniel se ha desconectado
+01/05/2023 14:44:48 => Servidor iniciado en el puerto: 6500
+01/05/2023 14:45:19 => Se ha aceptado la conexion 
+
+01/05/2023 14:45:19 => Cliente Daniel se ha conectado con la IP 127.0.0.1
+01/05/2023 14:45:23 => Daniel se ha desconectado
+01/05/2023 20:01:31 => Servidor iniciado en el puerto: 6500
